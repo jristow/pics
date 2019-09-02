@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a sample React application that utilizes the Unsplash API. Users can search for images using a keyword and then a sampling of available images is displayed.
 
 ## Available Scripts
 
